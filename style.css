@@ -1,0 +1,125 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	width: 100%;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+/* box1 start here */
+
+.box1{
+	width: 400px;
+	margin-top: 20px;
+	box-shadow: 3px 3px 8px #ddd;
+	float: left;
+
+}
+
+.box1 h1{
+	text-align: center;
+	padding: 10px;
+	font-family: tahoma;
+}
+.box1 p{
+	text-align: justify;
+	padding: 10px;
+	font-size: 20px;
+	line-height: 1.6;
+	font-family: tahoma;
+
+}
+
+a{
+	font-size: 20px;
+}
+
+.box1 button{
+	margin-left:137px;
+	margin-bottom: 10px;
+}
+/* box1 end here */
+
+/* box2 start here */
+.box2{
+	width: 400px;
+	margin-top: 20px;
+	box-shadow: 3px 3px 8px #ddd;
+	float: left;
+	margin-left: 20px
+
+}
+
+.box2 h1{
+	text-align: center;
+	padding: 10px;
+	font-family: tahoma;
+}
+.box2 p{
+	text-align: justify;
+	padding: 10px;
+	font-size: 20px;
+	line-height: 1.6;
+	font-family: tahoma;
+
+}
+
+a{
+	font-size: 20px;
+}
+
+.box2 button{
+	margin-left:137px;
+	margin-bottom: 10px;
+}
+/* box2 end here */
+
+/* box3 start here */
+.box3{
+	width: 400px;
+	margin-top: 20px;
+	box-shadow: 3px 3px 8px #ddd;
+	float: left;
+	margin-left: 20px
+
+}
+
+.box3 h1{
+	text-align: center;
+	padding: 10px;
+	font-family: tahoma;
+}
+.box3 p{
+	text-align: justify;
+	padding: 10px;
+	font-size: 20px;
+	line-height: 1.6;
+	font-family: tahoma;
+
+}
+
+a{
+	font-size: 20px;
+}
+
+.box3 button{
+	margin-left:137px;
+	margin-bottom: 10px;
+}
+/* box3 end here */
+
+.section{
+    margin-left: 93px;
+    margin-top: 39px;
+}
+
+.title{
+	text-align: center;
+	text-shadow: 3px 3px 8px #ddd;
+	font-size:  20px;
+	font-family: tahoma;
+	margin-bottom: 33px;
+    margin-left: -108px;
+}
